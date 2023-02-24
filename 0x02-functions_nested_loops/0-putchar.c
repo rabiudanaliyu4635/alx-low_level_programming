@@ -8,10 +8,10 @@
  */
 int main(void)
 {
-	char word[5] = "Rabiu";
+	char word[9] = "Rabiu_Ali";
 	int i;
 
-	for (i = 0; i < 5; i++)
+	for (i = 0; i < 9; i++)
 		_putchar(word[i]);
 	_putchar('\n');
 
