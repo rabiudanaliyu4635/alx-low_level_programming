@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	char word[9] = "Rabiu_Ali";
+	char word[9] = "RabiuAli";
 	int i;
 
 	for (i = 0; i < 9; i++)
